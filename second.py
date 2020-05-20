@@ -1,4 +1,4 @@
-from first import add
+from first import add, mul
 
 result=add(3,9)
 print(result)
